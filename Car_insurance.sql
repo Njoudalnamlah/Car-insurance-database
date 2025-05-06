@@ -1,4 +1,3 @@
-
 DROP TABLE IF EXISTS Car_accident;
 DROP TABLE IF EXISTS Accident;
 DROP TABLE IF EXISTS Insurance;
