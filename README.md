@@ -27,10 +27,3 @@ It includes logic for ensuring data accuracy using SQL triggers, procedures, and
 - `Accident`: Records of accidents with location and description  
 - `Car_Accident`: Relationship between cars and accidents  
 
-## 🔐 Business Logic Highlights
-
-- ✅ `check_car_insurance`: Procedure to verify car has insurance  
-- ✅ `get_total_accidents`: Function to count accidents for a car  
-- ✅ `validate_policy_number`: Procedure to verify policy uniqueness  
-- ❌ `trg_check_year`: Trigger to prevent unrealistic car years  
-- ❌ `trg_check_insurance_end_date`: Trigger to block expired policies  
